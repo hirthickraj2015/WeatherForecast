@@ -1,0 +1,3 @@
+// WeatherForecast
+
+export function main() {}
